@@ -1,0 +1,87 @@
+html {
+    background-color: black;
+}
+#h11 {
+    color: rgb(142, 239, 25);
+    display: block;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 0px;
+    font-style: italic;
+}
+#h12 {
+    color:rgba(255, 255, 255, 0.947);
+    display: block;
+    position: absolute;
+    margin-left: 618px;
+    margin-top: 0px;
+}
+#h13 {
+    color: rgb(125, 140, 255);
+    display: block;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 0px;
+    font-style:oblique;
+}
+a {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 595px;
+    font-size: medium;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 40px rgb(133, 248, 133);
+    background: black;
+}
+.glow {
+    background: black;
+    color: #fff;
+}
+a:hover {
+    color: rgb(131, 255, 145);
+    background: black;
+    background-color: black;
+    text-decoration: underline;
+    font-size: larger;
+}
+#gif {
+    display: block;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 330px;
+    height: 400px;
+    width: 600px;
+}
+#gif:hover {
+    display: block;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 330px;
+    height: 300px;
+    width: 600px;
+}
+div {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 550px;
+}
+#kuva1 {
+    display: block;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 100px;
+    width: 200px;
+}
+#kuva2 {
+    display: block;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 900px;
+    width: 200px;
+    height: 300px;
+}
